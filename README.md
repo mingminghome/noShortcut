@@ -23,7 +23,15 @@ A lightweight macOS menu bar app that temporarily disables selected keyboard sho
 ## Requirements
 
 - macOS 13.0 (Ventura) or later
-- Xcode 14+ (to build)
+- Xcode 14+ (only required if building from source)
+
+## Download & Installation
+
+You can download the pre-compiled application directly from the [GitHub Releases](https://github.com/MingMingHomeWork/NoShortcut/releases) page.
+
+1. Download the latest `NoShortcut.zip` file.
+2. Unzip the file and drag `NoShortcut.app` to your `/Applications` folder.
+3. Launch `NoShortcut` and configure permissions.
 
 ## Setup & Build
 
