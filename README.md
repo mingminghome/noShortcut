@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="AppIcon.png" width="128" height="128" alt="NoShortcut Logo">
+</p>
+
 # NoShortcut
 
 A lightweight macOS menu bar app that temporarily disables selected keyboard shortcuts using profiles.
@@ -104,9 +108,13 @@ Feel free to edit or add your own.
 - Per-app exceptions
 - Launch at login (using `SMAppService`)
 
+## Inspiration & Acknowledgements
+
+- Inspired by other excellent open-source macOS menu bar utilities like [stats](https://github.com/exelban/stats).
+
 ## License
 
-MIT — do whatever you want.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
