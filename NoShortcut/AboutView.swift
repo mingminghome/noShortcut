@@ -32,6 +32,10 @@ struct AboutView: View {
                 .font(.subheadline)
                 .foregroundStyle(.secondary)
 
+            Text("Developer: \(AppInfo.developer)")
+                .font(.subheadline)
+                .foregroundStyle(.secondary)
+
             Text("Block macOS keyboard shortcuts with customizable profiles.")
                 .font(isInline ? .caption : .body)
                 .foregroundStyle(.secondary)

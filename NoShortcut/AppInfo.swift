@@ -2,6 +2,7 @@ import Foundation
 
 enum AppInfo {
     static let name = "NoShortcut"
+    static let developer = "MingMingHomeWork"
 
     static var version: String {
         Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String ?? "1.0"
