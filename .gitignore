@@ -1,0 +1,73 @@
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might be created by a Folder View Registry
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on external MS-DOS Formatted volumes
+.TemporaryItems
+.apdisk
+
+# Xcode
+#
+# gitignore contributors: place Xcode-specific excludes in this file only
+
+## Build results
+build/
+DerivedData/
+
+## User data
+xcuserdata/
+*.xcuserdatad
+*.xcworkspace/xcuserdata/
+
+## Playgrounds
+*.playground/xcuserdata/
+
+## Swift Package Manager
+.build/
+.swiftpm/xcode/package.resolved
+.swiftpm/xcode/xcshareddata/
+!*.xcodeproj/project.xcworkspace/xcshareddata/SwiftPM/Package.resolved
+
+## Xcode state
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# CocoaPods
+#
+# We do not check in Pods/ directory.
+# Pods/
+# HeaderSearchPaths.xcconfig
+
+# Carthage
+#
+# We do not check in Carthage/Build/ directory.
+# Carthage/Build/
+
+# Fastlane
+#
+# It is recommended to not store the screenshots in the git repo.
+# fastlane/report.xml
+# fastlane/Preview.html
+# fastlane/screenshots/**/*.png
+# fastlane/test_output
+
+# Code Signing
+*.key
+*.pem
