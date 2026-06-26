@@ -29,8 +29,8 @@ A lightweight macOS menu bar app that temporarily disables selected keyboard sho
 
 You can download the pre-compiled application directly from the [GitHub Releases](https://github.com/MingMingHomeWork/NoShortcut/releases) page.
 
-1. Download the latest `NoShortcut.zip` file.
-2. Unzip the file and drag `NoShortcut.app` to your `/Applications` folder.
+1. Download the latest `NoShortcut.dmg` file.
+2. Double-click the `.dmg` to open/mount it, then drag `NoShortcut` to your `/Applications` folder.
 3. Launch `NoShortcut` and configure permissions.
 
 ## Setup & Build
