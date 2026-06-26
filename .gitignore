@@ -71,3 +71,7 @@ xcuserdata/
 # Code Signing
 *.key
 *.pem
+
+# Built macOS Binaries
+NoShortcut.app/
+NoShortcut.dmg
