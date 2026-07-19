@@ -7,10 +7,6 @@
 A lightweight macOS menu bar app that temporarily disables selected keyboard shortcuts using profiles.
 
 <p align="center">
-  <a href="https://buymeacoffee.com/mingminghomework"><img src="https://img.shields.io/badge/Buy%20me%20some%20milk-🥛-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=black" alt="Buy me some milk"></a>
-</p>
-
-<p align="center">
   <img src="screenshots/menubar.png" width="280" alt="NoShortcut Menu Bar Dropdown" style="vertical-align: middle; margin-right: 15px;"/>
   <img src="screenshots/manager.png" width="460" alt="NoShortcut Profile Manager" style="vertical-align: middle;"/>
 </p>
