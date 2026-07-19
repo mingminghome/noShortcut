@@ -129,9 +129,15 @@ Feel free to edit or add your own.
 
 - Inspired by other excellent open-source macOS menu bar utilities like [stats](https://github.com/exelban/stats).
 
+## Support the Project
+
+If you find this app useful, consider supporting its development by buying me a pint!
+
+<a href="https://buymeacoffee.com/mingminghomework"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20pint&emoji=%F0%9F%8D%BA&slug=mingminghomework&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a pint"></a>
+
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
